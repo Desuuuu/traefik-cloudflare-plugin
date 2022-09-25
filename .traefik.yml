@@ -1,0 +1,9 @@
+displayName: Cloudflare
+summary: Handle traffic coming from Cloudflare.
+type: middleware
+import: github.com/Desuuuu/traefik-cloudflare-plugin
+
+testData:
+  trustedCIDRs: []
+  refreshInterval: 24h
+  overwriteForwardedFor: true

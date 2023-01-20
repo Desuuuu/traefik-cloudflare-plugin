@@ -55,6 +55,6 @@ http:
 [Go Version]: /go.mod
 [Go Version Badge]: https://img.shields.io/github/go-mod/go-version/Desuuuu/traefik-cloudflare-plugin
 [Build]: https://github.com/Desuuuu/traefik-cloudflare-plugin/actions/workflows/test.yml
-[Build Badge]: https://img.shields.io/github/workflow/status/Desuuuu/traefik-cloudflare-plugin/Test
+[Build Badge]: https://img.shields.io/github/actions/workflow/status/Desuuuu/traefik-cloudflare-plugin/test.yml
 [Go Report Card]: https://goreportcard.com/report/github.com/Desuuuu/traefik-cloudflare-plugin
 [Go Report Card Badge]: https://goreportcard.com/badge/github.com/Desuuuu/traefik-cloudflare-plugin
